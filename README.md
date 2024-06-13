@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I'm currently working on Web development<br>💡 My go-to programming language is C++<br>📃 Ask me anything about SQL<br>💫 I am a fast paced learner<br>⭐ Fun fact about me I love cricket
+🖥️ I'm currently working on Web development<br><br>💡 My go-to programming language is C++<br><br>📃 Ask me anything about SQL<br><br>💫 I am a fast paced learner<br><br>⭐ Fun fact about me I love cricket
 
 
 ## 🌐 Socials:
